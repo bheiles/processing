@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "Beamformers\\src\\3D\\RCA\\Vermon\\NSSI"
+			"path": "..\\Beamformers\\CUDA"
 		},
 		{
-			"path": "..\\..\\Downloads\\renal"
+			"path": "..\\ImagingSequences"
 		}
 	],
 	"settings": {}
